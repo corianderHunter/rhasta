@@ -1,0 +1,26 @@
+{
+  "name": "rhasta",
+  "version": "1.0.0",
+  "description": "a helper for react-module-style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corianderHunter/rhasta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corianderHunter/rhasta/issues"
+  },
+  "homepage": "https://github.com/corianderHunter/rhasta#readme",
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.2.0",
+    "md5-file": "^4.0.0",
+    "postcss": "^7.0.21",
+    "postcss-less-engine": "^0.6.2",
+    "postcss-node-sass": "^2.1.8"
+  }
+}
